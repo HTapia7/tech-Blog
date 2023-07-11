@@ -46,3 +46,6 @@ GIVEN a CMS-style blog site
 - CSS 
 - Handlebars
 - Express
+- JavaScript
+- HTML
+- Bootstrap
